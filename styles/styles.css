@@ -1,0 +1,103 @@
+.encabezado
+{
+    min-height: 4rem;
+    margin: 0;
+}
+
+.botones
+{
+    margin-top: 1rem;
+}
+
+.circle
+{
+    width: 90px;
+    height: 70px;
+    margin-top: 0.7rem;
+}
+
+.img-bloque
+{
+    width: 50px;
+    height: 50px;
+    margin-top: 0.7rem;
+}
+
+.bloque-izqu
+, .bloque-cent
+{
+    height: auto;
+    /* border: 1px solid black; */
+    /* padding: 0 !important; */
+}
+
+.cont-1
+{
+    min-height: auto;
+    /* border: 1px solid salmon; */
+    padding: 0.2rem;
+}
+
+.chat-col
+{
+    height: 50rem;
+    /* border: 1px solid black; */
+    padding: 0;
+    border: none;
+}
+
+.cont-chat
+{
+    height: 25rem;
+    padding: 0;
+    
+}
+
+ /* .contenedor-1
+{
+    height: auto;
+    background-color: aqua;
+} */
+
+/* .contenedor-2
+{
+    min-height: 17rem;
+
+} */
+
+
+.flow-text
+{
+    text-align: justify;
+}
+
+.contenedor-noticias
+{
+    min-height: 50rem;
+    padding: 0.5rem;
+    border: none;
+}
+
+.noticias
+{
+    border: 0.6rem solid rgba(102, 139, 119, 0.7);
+    border-radius: 5px;
+}
+
+.segmento
+{
+    text-align: center;
+    text-decoration: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+li{
+    list-style: none;
+}
+
+div[class^='collection']{
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+
